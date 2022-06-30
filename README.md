@@ -4,7 +4,7 @@
 <h3>About me</h3>
 <ul>
 <li>Coding is my favorite hobby</li>
-<li>I write some <s>bad</s> <a href="https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez">music</a></li>
+<li>I write some <s>bad</s> <a target="_blank" href="https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez">music</a></li>
 <li>I think that CSS is unnecessarily complicated</li>
 </ul>
 <h3>My skills</h3>
@@ -19,6 +19,6 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png' height="70px">
 </p>
 <h3>My other stuff</h3>
-<a href='https://youtube.com/channel/UCS5vGgmuyta1OZr2BPnPXFw'>Youtube</a> &middot;
-<a href='https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez'>Spotify</a> &middot;
-<a href='https://shedeurcoder.github.io'>Website</a>
+<a href='https://youtube.com/channel/UCS5vGgmuyta1OZr2BPnPXFw' target="_blank">Youtube</a> &middot;
+<a href='https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez' target="_blank">Spotify</a> &middot;
+<a href='https://shedeurcoder.github.io' target="_blank">Website</a>
