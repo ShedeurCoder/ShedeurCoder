@@ -19,6 +19,6 @@
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png' height="70px">
 </p>
 <h3>My other stuff</h3>
-<a href='https://youtube.com/channel/UCS5vGgmuyta1OZr2BPnPXFw'>Youtube</a>
-<a href='https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez'>Spotify</a>
+<a href='https://youtube.com/channel/UCS5vGgmuyta1OZr2BPnPXFw'>Youtube</a> &middot;
+<a href='https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez'>Spotify</a> &middot;
 <a href='https://shedeurcoder.github.io'>Website</a>
