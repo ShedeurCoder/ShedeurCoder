@@ -31,6 +31,6 @@
 </div>
 <hr>
 <div>
-<h3>:flame:Stats or watever. idk people do this so...</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShedeurCoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3>:fire:Stats or whatever. idk people do this so...</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShedeurCoder)](https://github.com/anuraghazra/github-readme-stats)
 </div>
