@@ -29,8 +29,4 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' title='Express' alt='Express' width='50' height='50'>&nbsp;
   <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title='MongoDB' alt='MongoDB' width='50' height='50'>
 </div>
-<hr>
-<div>
-<h3>:fire:Stats or whatever. idk people do this so...</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShedeurCoder)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+the end
