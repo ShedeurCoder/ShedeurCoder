@@ -1,24 +1,36 @@
-<h1 align="center">Hello, world! I'm Shedeur!</h1>
-<h2 align="center">A full stack web developer from the Philippines</h2>
-<br>
-<h3>About me</h3>
+<div align='center'>
+<h1>Hello, world</h1>
+<div id="badges">
+<a href="https://youtube.com/channel/UCS5vGgmuyta1OZr2BPnPXFw">
+<img src='https://img.shields.io/badge/Youtube-darkred?style=for-the-badge&logo=youtube&logoColor=white'>
+</a>
+<a href='https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez'>
+<img src='https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=white'>
+</a>
+</div>
+<img src='https://komarev.com/ghpvc/?username=ShedeurCoder'>
+</div>
+<hr>
+<h2>:technologist: About me:</h2>
+<b>I am a full stack web developer from :philippines: The Philippines</b>
 <ul>
-<li>Coding is my favorite hobby</li>
-<li>I write some <s>bad</s> <a target="_blank" href="https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez">music</a></li>
-<li>I think that CSS is unnecessarily complicated</li>
+<li>I work with NodeJS and ExpressJS to make full stack apps</li> 
+<li>I make a few discord bots</li>
+<li>I make 'songs'</li>
 </ul>
-<h3>My skills</h3>
-<p>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png' height="70px">
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png' height="70px">
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png' height="70px">
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png' height="70px">
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png' height="70px">
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png' height="70px">
-<img src='https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld' height="70px">
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png' height="70px">
-</p>
-<h3>My other stuff</h3>
-<a href='https://youtube.com/channel/UCS5vGgmuyta1OZr2BPnPXFw' target="_blank">Youtube</a> &middot;
-<a href='https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez' target="_blank">Spotify</a> &middot;
-<a href='https://shedeurcoder.github.io' target="_blank">Website</a>
+<hr>
+<h2>:hammer_and_wrench:My skills:</h2>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg' title='Bootstrap' alt='Bootstrap' width='50' height='50'>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg' title='Express' alt='Express' width='50' height='50'>&nbsp;
+  <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg' title='MongoDB' alt='MongoDB' width='50' height='50'>
+</div>
+<hr>
+<div>
+<h3>:flame:Stats or watever. idk people do this so...</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShedeurCoder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
