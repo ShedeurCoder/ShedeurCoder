@@ -17,7 +17,7 @@
 <li>I work with NodeJS and ExpressJS to make full stack apps</li> 
 <li>I make a few discord bots</li>
 <li>I make 'songs'</li>
-<li>I am a speeedcuber. Sub 13 on 3x3.</li>
+<li>I am a speeedcuber. Sub 12 on 3x3.</li>
 </ul>
 <hr>
 <h2>:hammer_and_wrench:My skills:</h2>
