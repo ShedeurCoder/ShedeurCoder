@@ -4,12 +4,11 @@
 <h2>🥶 about me:</h2>
 <b>i make websites. usually theyre front end, but sometimes theyre full stack.</b>
 <ul>
-  <li>spider-verse best movie ever</li>
   <li>i do the javascript</li> 
   <li>vue is objectively the best framework</li>
   <li>the chatterbox is my pride and joy</li>
-  <li>i have 2 chickens, chibib and chiboo</li>
   <li>i do the rubric cube in under 11 secon wow</li>
+  <li>i want squan nr</li>
 </ul>
 <hr>
 <h2>💀 my socials:</h2>
