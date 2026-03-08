@@ -4,10 +4,10 @@
 <h2>🥶 about me:</h2>
 <b>i make websites. usually theyre front end, but sometimes theyre full stack.</b>
 <ul>
-  <li>i do the javascript</li> 
+  <li>i do javascript</li> 
   <li>vue is objectively the best framework</li>
   <li>the chatterbox is my pride and joy</li>
-  <li>i do the rubric cube in under 10 secon wow</li>
+  <li>i do the rubix cube in under 10 seconds wow</li>
   <li>former squan nr holder (i got lucky)</li>
 </ul>
 <hr>
