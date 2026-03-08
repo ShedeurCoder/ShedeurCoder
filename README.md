@@ -1,14 +1,15 @@
 <div align='center'>
   <h1>🍔 hi 🐔</h1>
 </div>
-<h2>🥶 about me:</h2>
+<h2>🥶 About me:</h2>
 <b>i make websites. usually theyre front end, but sometimes theyre full stack.</b>
 <ul>
-  <li>i do javascript</li> 
-  <li>vue is objectively the best framework</li>
-  <li>the chatterbox is my pride and joy</li>
-  <li>i do the rubix cube in under 10 seconds wow</li>
-  <li>former squan nr holder (i got lucky)</li>
+  <li>I do Javascript</li> 
+  <li>Vue is objectively the best framework</li>
+  <li>The Chatterbox is my pride and joy</li>
+  <li>I do the rubix cube in under 10 seconds wow</li>
+  <li>Former squan NR holder (I got lucky)</li>
+  <li>Massive spaceflight fan (we need to colonize the solar system)</li>
 </ul>
 <hr>
 <h2>💀 my socials:</h2>
