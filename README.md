@@ -2,7 +2,7 @@
   <h1>🍔 hi 🐔</h1>
 </div>
 <h2>🥶 About me:</h2>
-<b>i make websites. usually theyre front end, but sometimes theyre full stack.</b>
+<b>i (used to) make websites. usually theyre front end, but sometimes theyre full stack.</b>
 <ul>
   <li>I do Javascript</li> 
   <li>Vue is objectively the best framework</li>
