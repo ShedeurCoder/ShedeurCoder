@@ -14,8 +14,8 @@
 <hr>
 <h2>💀 my socials:</h2>
 <div>
-  <a href='https://youtube.com/@shedeur' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png' height='70px'></a>&nbsp;
-  <a href='https://twitter.com/shad_land' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png' height='70px'></a>&nbsp;
-  <a href='https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png' height='70px'></a>&nbsp;
+  <a href='https://youtube.com/@shedeur' target='_blank'><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height='70px'></a>&nbsp;
+  <a href='https://twitter.com/JorgenWurtzIX' target='_blank'><img src='https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png' height='70px'></a>&nbsp;
+  <a href='https://open.spotify.com/artist/4xPrJwMkcqLJ4emF5W1qez' target='_blank'><img src='https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png' height='70px'></a>&nbsp;
   <a href='https://thechatterbox.netlify.app/@shad' target='_blank'><img src='https://thechatterbox.netlify.app/assets/logo-40d38684.png' height='70px'></a>
 </div>
